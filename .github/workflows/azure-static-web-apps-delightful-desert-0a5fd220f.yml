@@ -33,8 +33,8 @@ jobs:
       #     hugo-version: '0.96.0'
       #     extended: true
 
-      # - name: minify
-      #   run: hugo --minify
+      - name: minify
+        run: hugo --minify
 
       - name: Build And Deploy
         id: builddeploy
