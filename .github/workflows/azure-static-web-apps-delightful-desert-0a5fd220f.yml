@@ -27,6 +27,9 @@ jobs:
           output: assets/indices
           root: .
 
+      - name: minify
+        run: hugo --minify
+
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
