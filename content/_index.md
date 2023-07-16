@@ -1,6 +1,6 @@
 ---
 title: witt @ quartz
-enableToc: true
+enableToc: false
 ---
 
 # custom
