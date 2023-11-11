@@ -1,5 +1,7 @@
 ---
-title: witt @ quartz
+title: the pelican has landed
+alias:
+    - index
 enableToc: false
 date: 2023-11-10
 ---
