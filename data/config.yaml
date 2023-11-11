@@ -10,6 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
+enableNewNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/wittionary/quartz/tree/hugo/content

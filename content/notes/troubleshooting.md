@@ -1,6 +1,7 @@
 ---
 title: "Troubleshooting and FAQ"
 publishDate: 2023-01-03
+modified: 2023-11-02
 ---
 
 Still having trouble? Here are a list of common questions and problems people encounter when installing Quartz.
