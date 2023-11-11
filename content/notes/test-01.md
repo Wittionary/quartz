@@ -1,5 +1,6 @@
 ---
 title: test 01
+publishDate: 2023-01-01
 ---
 
 # testing
