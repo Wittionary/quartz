@@ -4,6 +4,7 @@ alias:
     - index
 enableToc: false
 date: 2023-11-10
+publish: true
 ---
 
 # custom
