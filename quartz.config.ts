@@ -9,8 +9,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "https://delightful-desert-0a5fd220f.3.azurestaticapps.net",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "delightful-desert-0a5fd220f.3.azurestaticapps.net",
+    ignorePatterns: ["private", "templates", ".obsidian", ".trash"],
     defaultDateType: "created",
     theme: {
       typography: {
